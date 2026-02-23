@@ -1,6 +1,6 @@
-<div align="center">
-	# Wormholes - Tabletop Simulator Edition!
-</div>
+<h1 align="center">
+	Wormholes - Tabletop Simulator Edition!
+</h1>
 
 <p align="center">
 	Wormholes by Peter McPherson translated into the Tabletop Simulator format.
