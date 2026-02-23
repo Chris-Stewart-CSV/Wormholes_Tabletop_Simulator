@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-	<img src="[https://imgur.com/a/D4q5HMW](https://i.imgur.com/46WRVwm.jpeg)" width="253" height ="315"/>
+	<img src="https://i.imgur.com/46WRVwm.jpeg" width="253" height ="315"/>
 </p>
 
 ## Motivation for Project
