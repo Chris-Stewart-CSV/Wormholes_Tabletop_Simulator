@@ -1,4 +1,6 @@
-# Wormholes - Tabletop Simulator Edition!
+<div align="center">
+	# Wormholes - Tabletop Simulator Edition!
+</div>
 
 <p align="center">
 	Wormholes by Peter McPherson translated into the Tabletop Simulator format.
@@ -14,7 +16,7 @@
 </p>
 
 <p align="center">
-	<img src="https://i.imgur.com/46WRVwm.jpeg" width="253" height ="315"/>
+	<img src="https://i.imgur.com/46WRVwm.jpeg" width="506" height ="630"/>
 </p>
 
 ## Motivation for Project
