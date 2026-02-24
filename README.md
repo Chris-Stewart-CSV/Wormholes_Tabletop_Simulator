@@ -21,7 +21,7 @@
 
 ## Motivation for Project
 <p align="left">
-I really enjoy this board game and have found it a fascinating challenge to try and digitalize it. I've been running D&D games in TTS and figured I could try and push TTS's limits a bit and see just how far it can go with truly creating a board game. Creating the assets and interacting with those is easy enough, a lot of interacting with objects is handle by the game, the trick was how much could I automate it so the player just needs to "play the game" and the rest is taken care of behind the scenes.
+I really enjoy this board game and have found it a fascinating challenge to try and digitalize it. I've been running D&D games in TTS and figured I could try and push TTS's limits a bit and see just how far it can go with truly creating a board game. Creating the assets and interacting with those is easy enough, a lot of interacting with objects is handled by the game, the trick was how much could I automate it so the players just needs to "play the game" and the rest is taken care of behind the scenes.
 </p>
 <p align="left">
 
